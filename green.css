@@ -21,6 +21,19 @@ header {
     margin-bottom: 50px;
 }
 
+.photo-container {
+    margin-bottom: 20px;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 4px dashed #10b981;
+    border-radius: 50%;
+    box-shadow: 0 10px 15px rgba(16, 185, 129, 0.2);
+}
+
 h1 {
     color: #059669;
     font-size: 3.2em;
